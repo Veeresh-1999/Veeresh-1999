@@ -14,11 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Veeresh-1999](https://github.com/Veeresh-1999)
 
-- 💬 Ask me about **java, SQL, MySQL**
-
-- 📫 How to reach me **veereshsannagire@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/hqsM1](https://shorturl.at/hqsM1)
+- 📫Email Id **veereshsannagire@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
